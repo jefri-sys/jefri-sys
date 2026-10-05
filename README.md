@@ -17,7 +17,7 @@
 - 🔭 Currently building **Aethon** — an AI-powered academic platform with RAG pipelines
 - 🌱 Learning **TypeScript**, **System Design**, and **Data Engineering**
 - 💼 Open to **Software Engineering** and **Data Analyst** roles
-- ⚡ I shipped **SCRMS** solo — 35 features, end-to-end, production deployed
+- ⚡ I shipped **Aethon** solo — 35 features, end-to-end, production deployed
 - 📍 Kerala, India
 - 📫 Reach me at **jefrijiji2003@gmail.com**
 - 🌐 Portfolio: [jefrijiji.netlify.app](https://jefrijiji.netlify.app)
