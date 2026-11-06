@@ -64,8 +64,8 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **[SCRMS](https://github.com/jefri-sys)** | Smart Campus Reprography System — solo MERN build with wallet, real-time chat, OTP queue, split payments, PWA | React · Node · MongoDB · Socket.io · Gemini |
-| **[Aethon](https://github.com/jefri-sys)** | AI-powered academic platform — RAG pipeline, multi-LLM orchestration, resume builder, video calls | React · Node · Gemini · Groq · WebRTC |
+| **[Reposys](https://reposyson.vercel.app)** | Smart Campus Reprography System — solo MERN build with wallet, real-time chat, OTP queue, split payments, PWA | React · Node · MongoDB · Socket.io · Gemini |
+| **[Aethon](https://aethoncloud.vercel.app)** | AI-powered academic platform — RAG pipeline, multi-LLM orchestration, resume builder, video calls | React · Node · Gemini · Groq · WebRTC |
 | **[EcoDrive](https://github.com/jefri-sys)** | EV service & maintenance system with role-based dashboards and automated bookings | PHP · MySQL · JavaScript |
 
 ---
