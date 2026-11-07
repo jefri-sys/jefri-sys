@@ -15,7 +15,7 @@
 
 - 🎓 Final-year **Integrated MCA** student at Saintgits College of Engineering (KTU)
 - ⚡ Built and deployed a campus document service platform named **Reposys** for my college.
-- 🔭 Currently I am currently working on a development project at **Cochin International Airport Limited (CIAL)**
+- 🔭 Currently working on a development project at **Cochin International Airport Limited (CIAL)**
 - 🌱 Learning **TypeScript**, **System Design**, and **Data Engineering**
 - 💼 Open to **Software Engineering** and **Data Analyst** roles
 - ⚡ I shipped **Aethon** solo — 35 features, end-to-end, production deployed
